@@ -38,12 +38,16 @@ Explore a ordem invisível das **filas**, onde o primeiro a chegar é o primeiro
 Cada capítulo termina com **desafios práticos** que incentivam o leitor a aplicar o que aprendeu de forma ativa, em um estilo de jogo onde cada linha de código é uma decisão.
 
 ---
+## 🛠️ Tecnologias Utilizadas
 
-## 📎 Requisitos
+Este projeto foi desenvolvido utilizando uma combinação de ferramentas criativas e técnicas, com foco em aprendizado, narrativa visual e estilização de código:
 
-- Python 3.x  
-- Conhecimentos básicos de programação  
-- Vontade de explorar estruturas com um toque de aventura  
+- 🎤 **ChatGPT** – Para geração de conteúdo textual, desafios de programação e desenvolvimento da trilogia narrativa.
+- 🖼️ **Canva** – Criação da capa e elementos visuais com estética gamer e cyberpunk.
+- 🖥️ **PowerPoint** – Organização e diagramação de conteúdos para estruturação visual antes da exportação.
+- 💻 **Carbon.sh** – Estilização de trechos de código com aparência profissional e moderna para inserção no material gráfico.
+
+Essas tecnologias foram integradas para transformar conceitos técnicos em uma experiência de leitura envolvente, com visual marcante e linguagem acessível.
 
 ---
 
